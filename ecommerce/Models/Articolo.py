@@ -1,0 +1,2 @@
+class Articolo:
+    pass
